@@ -1,0 +1,750 @@
+#EXTM3U
+#EXTINF:0,Rai 1 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4116
+#EXTINF:0,Rai 2 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4117
+#EXTINF:0,Rai 3 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4118
+#EXTINF:0,Rete 4 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4119
+#EXTINF:0,Canale 5 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4120
+#EXTINF:0,Italia 1 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4121
+#EXTINF:0,Cine34 (Novo Canal)
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/60785
+#EXTINF:0,La 7 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4122
+#EXTINF:0,20 Mediaset HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/35977
+#EXTINF:0,RSI La 1 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4123
+#EXTINF:0,RSI La 2 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4124
+#EXTINF:0,Rai 1 +1 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/18461
+#EXTINF:0,Rai 2 +1 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/18462
+#EXTINF :0,Rai 3 +1 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/18463
+#EXTINF:0,Rete 4 +1 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/18464
+#EXTINF:0,Canal 5 +1 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/18465
+#EXTINF:0,Italia 1 +1 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/18466
+#EXTINF:0,----------Sky Cinema----------
+http: //companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4058
+#EXTINF:0,Io Resto a Casa 1
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62232
+#EXTINF:0,Io Resto a Casa 2
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62233
+#EXTINF:0,Sky Cinema Uno HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4059
+#EXTINF:0, Sky Cinema Uno FULL HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/22270
+#EXTINF:0,Sky Cinema Uno SUPER FULL HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/40637
+#EXTINF:0, Sky Cinema Uno +1 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/16170
+#EXTINF:0,Sky Cinema Uno +1 FULL HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P /22269
+#EXTINF:0,Sky Cinema Due HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4066
+#EXTINF:0,Sky Cinema Due Full HD
+http://companygroup.dyndns.org:19553/ rsVQDyKNwO/Djbi1EMn4P/26077
+#EXTINF:0,Sky Cinema Devido Super Full HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/55156
+#EXTINF:0,Sky Cinema 24 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4060
+#EXTINF:0,Sky Cinema 24 FULL HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/ Djbi1EMn4P/22268
+#EXTINF:0,Sky Cinema Comedy HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4064
+#EXTINF:0,Sky Cinema Comedy Full HD
+http://companygroup.dyndns.org:19553 /rsVQDyKNwO/Djbi1EMn4P/26084
+#EXTINF:0,Sky Cinema Comedy Super Full HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/40660
+#EXTINF:0,Sky Cinema Family HD
+http://companygroup.dyndns .org:19553/rsVQDyKNwO/Djbi1EMn4P/4062
+#EXTINF:0,Sky Cinema Family Full HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/26083
+#EXTINF:0,Sky Cinema Family Super Full HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/40659
+#EXTINF:0, Sky Cinema Family +1 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/16162
+#EXTINF:0,Sky Cinema Family +1 Full HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P /26082
+#EXTINF:0,Sky Cinema Collection HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4061
+#EXTINF:0,Sky Cinema Collection Full HD
+http://companygroup.dyndns.org:19553/ rsVQDyKNwO/Djbi1EMn4P/26081
+#EXTINF:0,Sky Cinema Collection Super Full HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/40658
+#EXTINF:0,Sky Cinema Action HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4065
+#EXTINF:0,Sky Cinema Action Full HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/ Djbi1EMn4P/26080
+#EXTINF:0,Sky Cinema Action Super Full HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/40657
+#EXTINF:0,Sky Cinema Action +1 HD
+http://companygroup.dyndns. org:19553/rsVQDyKNwO/Djbi1EMn4P/16161
+#EXTINF:0,Sky Cinema Action +1 Full HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/26079
+#EXTINF:0,Sky Cinema Romance HD
+http:/ /companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4063
+#EXTINF:0,Sky Cinema Romance Full HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/26078
+#EXTINF:0,Sky Cinema Romance Super Full HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/40656
+#EXTINF:0, Sky Cinema Drama HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4067
+#EXTINF:0,Sky Cinema Drama Full HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/26076
+#EXTINF :0,Sky Cinema Drama Super Full HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/55254
+#EXTINF:0,Sky Cinema Suspense HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P /51877
+#EXTINF:0,Sky Cinema Suspense Full HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/51876
+#EXTINF:0,Sky Cinema Suspense Super Full HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/56283
+#EXTINF:0,Premium Cinema HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/ Djbi1EMn4P/38339
+#EXTINF:0,Premium Cinema Full HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/38338
+#EXTINF:0,Premium Cinema + 24 HD
+http://companygroup.dyndns.org:19553 /rsVQDyKNwO/Djbi1EMn4P/38341
+#EXTINF:0,Eagle Cinema 007 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/65229
+#EXTINF:0,Eagle Cinema Animazione FHD
+http://companygroup.dyndns.org :19553/rsVQDyKNwO/Djbi1EMn4P/65230
+#EXTINF:0,Eagle Cinema Avventura FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/65231
+#EXTINF:0,Eagle Cinema Azione FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/65232
+#EXTINF:0,Eagle Cinema Bud Spencer HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/65233
+#EXTINF:0,Eagle Cinema Comico Cult FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/65234
+#EXTINF: 0,Eagle Cinema Commedia FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/65235
+#EXTINF:0,Eagle Cinema Drammatico FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/65236
+# EXTINF:0,Eagle Cinema Fantastico FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/65237
+#EXTINF:0,Sky TG 24
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4113
+#EXTINF:0,Premium Cinema
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4126
+# EXTINF:0,Premium Emotion
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4130
+#EXTINF:0,Premium Cinema Energy
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/18027
+#EXTINF :0,Premium Comedy
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4132
+#EXTINF:0,Rai Filme HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4134
+#EXTINF: 0,Iris
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4135
+#EXTINF:0,Cine Sony
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/36390
+#EXTINF:0,Ação Premium
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4137
+#EXTINF:0,Crime Premium
+http: //companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4139
+#EXTINF:0,Premium Joy
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4141
+#EXTINF:0,Premium Stories
+http:// companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4142
+#EXTINF:0,Rai Premium HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4143
+#EXTINF:0,TV 8
+http://companygroup .dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/16410
+#EXTINF:0,La 5
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4147
+#EXTINF:0,La 7d HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4153
+#EXTINF:0,Rai 4 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4144
+#EXTINF:0,Rai 5 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4145
+#EXTINF:0,Top Crime
+http ://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4146
+#EXTINF:0,Mediaset Italia Devido
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4148
+#EXTINF:0,Mediaset Extra
+http: //companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4149
+#EXTINF:0,Cielo HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4151
+#EXTINF:0,Real Time
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4152
+#EXTINF:0,Spike
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/34516
+#EXTINF: 0,Giallo HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4155
+#EXTINF:0,TV 2000
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4156
+#EXTINF:0, Antena 3
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/36389
+#EXTINF:0,Telelombardia
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/36408
+#EXTINF:0,7 Gold telecity
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/45784
+#EXTINF:0,Alpha
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/36388
+#EXTINF:0,Padre Pio
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/36394
+#EXTINF:0,Videolina
+http:// /companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/35978
+#EXTINF:0,Rai News 24 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4187
+#EXTINF:0,TgCom 24
+http:// /companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4188
+#EXTINF:0,TG NORBA
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4257
+#EXTINF:0,------- ---Bambini----------
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4045
+#EXTINF:0,Baby Tv
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/34175
+#EXTINF:0,Boing
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4053
+#EXTINF:0,Boomerang HD
+http:// /companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/31709
+#EXTINF:0,Carton Network
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4050
+#EXTINF:0,Cartoonito
+http://companygroup. dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4054
+#EXTINF:0,Disney + Plus 1
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62023
+#EXTINF:0,Disney + Plus 2
+http:// companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62037
+#EXTINF:0,Disney Channel HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4046
+#EXTINF:0,Disney Channel Full HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/31712
+#EXTINF:0,Disney Junior
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4048
+#EXTINF:0,Disney XD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4049
+#EXTINF:0,DeAKids
+http:// /companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/56136
+#EXTINF:0,DeAJunior
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/56135
+#EXTINF:0,Frisbee
+http://companygroup.dyndns .org:19553/rsVQDyKNwO/Djbi1EMn4P/4057
+#EXTINF:0,K2
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4056
+#EXTINF:0,Rai Gulp HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4051
+#EXTINF:0,Rai Yoyo HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/4052
+#EXTINF:0,RO: TVR 1
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62842
+#EXTINF:0,RO: TVR 2
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P /62843
+#EXTINF:0,RO: Kanal D HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62844
+#EXTINF:0,RO: Kanal D
+http://companygroup.dyndns.org:19553/ rsVQDyKNwO/Djbi1EMn4P/62845
+#EXTINF:0,RO: TVR HD (1080P)
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62846
+#EXTINF:0,RO: Prima
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62847
+#EXTINF:0,RO: ProTV FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62848
+#EXTINF:0,RO: Kiss TV HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62849
+#EXTINF:0,RO: Kiss TV
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62850
+#EXTINF:0 ,RO: Taraf Tv
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62851
+#EXTINF:0,RO: TV1000
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62852
+#EXTINF: 0,RO: ZUTV HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62853
+#EXTINF:0,RO: Victoria Tv
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62854
+#EXTINF:0,RO: Viasat Nature/History HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62855
+#EXTINF:0 ,RO: Viasat Nature
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62856
+#EXTINF:0,RO: Viasat Explore
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62857
+#EXTINF :0,RO: VH 1 Classic
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62858
+#EXTINF:0,RO: VH 1
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/ 62859
+#EXTINF:0,RO: UTV HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62860
+#EXTINF:0,RO: Tv Paprika
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62861
+#EXTINF:0,RO: Travel Channel HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62862
+#EXTINF:0,RO : TNT
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62863
+#EXTINF:0,RO: TLC
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62864
+#EXTINF:0,RO : Tezaur TV
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62865
+#EXTINF:0,RO: Telekom Sport 1 FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62870
+#EXTINF :0,RO: Tele M Iasi
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62871
+#EXTINF:0,RO: Tele M Botosani
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62872
+#EXTINF:0,RO: Sundance FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62873
+#EXTINF:0,RO: Speranta Tv
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62874
+#EXTINF:0,RO: Romania Tv
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62875
+#EXTINF:0, RO: Realitatea Tv
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62876
+#EXTINF:0,RO: Realitatea Plus
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62877
+#EXTINF: 0,RO: PRO-X FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62878
+#EXTINF:0,RO: PRO-X
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62879
+#EXTINF:0,RO: Pro Gold
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62880
+#EXTINF:0,RO: Pro Cinema
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62881
+#EXTINF:0,RO: Pro 2 FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62882
+#EXTINF:0 ,RO: Nicktoons
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62883
+#EXTINF:0,RO: Nickelodeon HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62884
+#EXTINF: 0,RO: Nickelodeon
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62885
+#EXTINF:0,RO: Nest TV SV
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62886
+#EXTINF:0,RO: NatGeo Wild HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62887
+#EXTINF:0,RO : NatGeo HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62888
+#EXTINF:0,RO: N24
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62889
+#EXTINF:0, RO: Mooz Dance HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62890
+#EXTINF:0,RO: Mooz
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62891
+#EXTINF: 0,RO: Minimax
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62892
+#EXTINF:0,RO: Megamax
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62893
+#EXTINF:0,RO: MDI TV
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62894
+#EXTINF:0,RO: Look Sport FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62895
+#EXTINF:0,RO: Look Plus FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62896
+#EXTINF: 0,RO: JimJam
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62897
+#EXTINF:0,RO: Investigation Discovery FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62898
+# EXTINF:0,RO: Infinit TV
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62899
+#EXTINF:0,RO: Iasi TV
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62900
+#EXTINF:0,RO: History Channel
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62901
+#EXTINF:0,RO: HBO HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62902
+#EXTINF:0,RO: HBO 3 FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62903
+#EXTINF:0 ,RO: HBO 2 FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62904
+#EXTINF:0,RO: Happy Channel FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62905
+#EXTINF:0,RO: Fine Living HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62906
+#EXTINF:0,RO: Filmbox Premium
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62907
+#EXTINF:0,RO: FilmBox Extra FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62908
+#EXTINF:0,RO : Filmbox
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62909
+#EXTINF:0,RO: Film Now FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62910
+#EXTINF:0 ,RO: Film Now
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62911
+#EXTINF:0,RO: Film Cafe
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62912
+#EXTINF :0,RO: FightBox
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62913
+#EXTINF:0,RO: Etno
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62917
+#EXTINF:0,RO: E! Entretenimento FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62918
+#EXTINF:0,RO: E!
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62919
+#EXTINF:0,RO: DTX HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62920
+#EXTINF:0,RO: DocuBox
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62921
+#EXTINF:0,RO: Diva
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62922
+#EXTINF:0,RO: Disney Junior
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62923
+#EXTINF:0,RO: Disney Channel
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62924
+#EXTINF:0,RO: Discovery Science HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62925
+#EXTINF:0,RO : Discovery ID
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62926
+#EXTINF:0,RO: Digi World HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62927
+#EXTINF: 0,RO: Digi Animal World HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62933
+#EXTINF:0,RO: Digi 24 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P /62934
+#EXTINF:0,RO: Digi 24
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62935
+#EXTINF:0,RO: DaVinci Learning
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62936
+#EXTINF:0,RO: Cinemax FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62937
+#EXTINF:0,RO: Cinemax 2 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62938
+#EXTINF:0,RO: Cartoon Network
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62939
+#EXTINF:0 ,RO: BIT TV
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62940
+#EXTINF:0,RO: BBC Earth HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62941
+# EXTINF:0,RO: AXN White
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62942
+#EXTINF:0,RO: AXN Spin
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62943
+#EXTINF:0,RO: AXN Black
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62944
+#EXTINF:0,RO: Antena 3 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62945
+#EXTINF:0,RO: Antena 1 FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62946
+#EXTINF: 0,RO: AMC
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62947
+#EXTINF:0,RO: Alfa & Omega
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62948
+# EXTINF:0,RO: Acum TV
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62949
+#EXTINF:0,RO: ActualitateaTv
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62950
+#EXTINF:0,RO: Canal de música
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62951
+#EXTINF:0,RO: Romênia- Digi 24
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62952
+#EXTINF:0,RO: PRO TV
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62953
+#EXTINF: 0,GR: Village Cinema HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62954
+#EXTINF:0,GR: Viasat Nature
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62955
+#EXTINF:0,GR: Histórico da Viasat
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62956
+#EXTINF:0,GR: Explorar Viasat
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62957
+#EXTINF:0,GR: VH1
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62958
+#EXTINF:0,GR: Sorriso TV
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62959
+#EXTINF:0,GR: Skai HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62960
+#EXTINF:0,GR : Skai
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62961
+#EXTINF:0,GR: Sigma TV CY
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62962
+#EXTINF:0 ,GR: Rik Sat CY
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62963
+#EXTINF:0,GR: Canal externo FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62964
+#EXTINF:0,GR: Abrir além do HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62965
+#EXTINF:0,GR : Abra Além do FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62966
+#EXTINF:0,GR: NRG TV
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62967
+#EXTINF: 0,GR: Nova Premiere 1 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62976
+#EXTINF:0,GR: Nova Cinema Action HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/ Djbi1EMn4P/62977
+#EXTINF:0,GR: Nickelodeon FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62978
+#EXTINF:0,GR: Nickelodeon
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62979
+#EXTINF:0,GR: Net TV Toronto
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62980
+#EXTINF:0,GR : Canal Náutico FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62981
+#EXTINF:0,GR: National Geoaphic Wild FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62982
+# EXTINF:0,GR: National Geoaphic
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62983
+#EXTINF:0,GR: MTV Live FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P /62984
+#EXTINF:0,GR: Messinia TV
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62985
+#EXTINF:0,GR: Mega Channel
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62986
+#EXTINF:0,GR: Makedonia TV HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62987
+#EXTINF:0,GR : Makedonia TV
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62988
+#EXTINF:0,GR: MAD Hits FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62989
+#EXTINF: 0,GR: MAD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62990
+#EXTINF:0,GR: LYCHNOS
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62991
+#EXTINF: 0,GR: KPHTH TV
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62992
+#EXTINF:0,GR: Kontra TV
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62993
+#EXTINF:0,GR: Kanali Voulis
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62994
+#EXTINF:0,GR: Ionian TV
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62995
+#EXTINF:0,GR: High TV
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62996
+#EXTINF:0, GR: Fox Life FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62997
+#EXTINF:0,GR: Fox Channel FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62998
+# EXTINF:0,GR: Food Network FHD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/62999
+#EXTINF:0,GR: Fashion TV
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/63000
+#EXTINF:0,GR: ERT Sport HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/63006
+#EXTINF:0,GR : ERT Sport
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/63007
+#EXTINF:0,GR: ERT 3 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/63008
+#EXTINF: 0,GR: ERT 2 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/63009
+#EXTINF:0,GR: ERT 1 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/ 63010
+#EXTINF:0,GR: Epsilon
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/63011
+#EXTINF:0,GR: Canal Ena
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/63012
+#EXTINF:0,GR: E! Entretenimento HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/63013
+#EXTINF:0,GR: Disney XD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/63014
+#EXTINF:0, GR: Disney Junior
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/63015
+#EXTINF:0,GR: ART TV
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/63016
+#EXTINF: 0,GR: ANT 1 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/63017
+#EXTINF:0,GR: ANT 1
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/63018
+#EXTINF:0,GR: Ação 24 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/63019
+#EXTINF:0,GR: Ação 24
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/63020
+#EXTINF:0,GR: Nova Cinema 1 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/63021
+#EXTINF:0,GR: Nova Cinema 2 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/63022
+# EXTINF:0,GR: Nova Cinema 3 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/63023
+#EXTINF:0,GR: OTE CINEMA 1 HD
+http://companygroup.dyndns.org:19553/ rsVQDyKNwO/Djbi1EMn4P/63024
+#EXTINF:0,GR: OTE CINEMA 2 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/63025
+#EXTINF:0,GR: OTE CINEMA 3 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/63026
+#EXTINF:0,GR: Histórico OTE HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/63027
+#EXTINF:0,TR : TRT 1 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64104
+#EXTINF:0,TR: SHOW TV HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64105
+#EXTINF :0,TR: KANAL D HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64106
+#EXTINF:0,TR: ATV HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/ 64107
+#EXTINF:0,TR: STAR TV HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64108
+#EXTINF:0,TR: FOX HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64109
+#EXTINF:0,TR: BEYAZ TV HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64110
+#EXTINF:0,TR : TV8 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64111
+#EXTINF:0,TR: TV8.5
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64112
+#EXTINF: 0,TR: KANAL 7 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64113
+#EXTINF:0,TR:D MAX
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64114
+#EXTINF:0,TR: A2 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64115
+#EXTINF:0,TR: TEVE 2 HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64116
+#EXTINF:0,TR: AXN
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64117
+#EXTINF:0,TR: VIASAT TV 1000
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64118
+#EXTINF:0,TR: TVNET HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64119
+#EXTINF:0, TR: TRT SPOR HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64120
+#EXTINF:0,TR: TRT HABER HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64121
+# EXTINF:0,TR: TRAVEL TV
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64122
+#EXTINF:0,TR: TLC Balcãs.
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64123
+#EXTINF:0,TR: TIANKOV ORIENT FOLK
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64124
+#EXTINF:0,TR : A VOZ
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64125
+#EXTINF:0,TR: TGRT HABER
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64126
+#EXTINF:0 ,TR: Esporte HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64127
+#EXTINF:0,TR: ROMA TV
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64128
+#EXTINF :0,TR: Planeta Folk
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64129
+#EXTINF:0,TR: Planeta
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64130
+#EXTINF:0,TR: NTV HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64131
+#EXTINF:0,TR: NOVA TV
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64132
+#EXTINF:0,TR: NOVA SPORT
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64133
+#EXTINF:0, TR: NICKELODEON
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64134
+#EXTINF:0,TR: CANAL GEOGRÁFICO NACIONAL
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64135
+#EXTINF: 0,TR: Nat Geo Wild HD.
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64136
+#EXTINF:0,TR: NAT GEO WILD HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64137
+#EXTINF:0,TR: NAT GEO PEOPLE HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64138
+#EXTINF:0, TR: NAT GEO HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64139
+#EXTINF:0,TR: MAX SPORT 3
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64140
+# EXTINF:0,TR: KINONOVA
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64141
+#EXTINF:0,TR: HBO 3
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64142
+#EXTINF:0,TR: HBO 2
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64143
+#EXTINF:0,TR: HBO
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64144
+#EXTINF:0,TR: HABERTURK HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64145
+#EXTINF:0,TR: FOX LIFE
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64146
+#EXTINF:0,TR: FOX CRIME
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64147
+#EXTINF:0, TR: FOX
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64148
+#EXTINF:0,TR: FOOD NETWORK HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64149
+#EXTINF: 0,TR: FOLKLOR TV
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64150
+#EXTINF:0,TR: FINE LIVING
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64151
+#EXTINF:0,TR: FILMBOX PLUS
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64152
+#EXTINF:0,TR: FILMBOX EXTRA
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64153
+#EXTINF:0,TR: FAN TV
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64154
+#EXTINF:0, TR: F HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64155
+#EXTINF:0,TR: DSTV
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64157
+#EXTINF:0 ,TR: DREAM TURK
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64158
+#EXTINF:0,TR: Discovery Turbo Extra HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64159
+#EXTINF:0,TR: DISCOVERY IDX HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64160
+#EXTINF:0,TR : Discovery Channel HD.
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64161
+#EXTINF:0,TR: Descoberta
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64162
+#EXTINF:0,TR: Diema TV
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64163
+#EXTINF:0,TR: Diema Family.
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64166
+#EXTINF:0,TR: COMEDY PLUS
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64167
+#EXTINF:0,TR: CNN TURCO HD
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64168
+#EXTINF:0,TR: CINEMAX 2
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64169
+#EXTINF:0,TR: CINEMAX
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64170
+#EXTINF:0,TR: CINEMA PLUS
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64171
+#EXTINF:0,TR : CARTOON NETWORK
+http://companygroup.dyndns.org:19553/rsVQDyKNwO/Djbi1EMn4P/64172
+#EXTINF:0,Adult XX Maiale a Natale
+http://companygroup.dyndns.org:19553/movie/rsVQDyKNwO/Djbi1EMn4P/62036. mp4
+#EXTINF:0,XX Jules Jordan Manuels Euro Tour Paris
+http://companygroup.dyndns.org:19553/movie/rsVQDyKNwO/Djbi1EMn4P/61905.mkv
+#EXTINF:0,XX bonita e Raw Aria Kai
+http://companygroup.dyndns.org:19553/movie/rsVQDyKNwO/Djbi1EMn4P/56755.mkv
+#EXTINF:0,XX tudo interno 24 Scene 2
+http://companygroup.dyndns .org:19553/movie/rsVQDyKNwO/Djbi1EMn4P/56744.mp4
+#EXTINF:0,XX cena de invasão de massagem asiática 1
+http://companygroup.dyndns.org:19553/movie/rsVQDyKNwO/Djbi1EMn4P/56741.mp4
+#EXTINF:0 ,XX cena de invasão de massagem asiática 4
+http://companygroup.dyndns.org:19553/movie/rsVQDyKNwO/Djbi1EMn4P/56743.mp4
+#EXTINF:0,XX cena de estrela com tinta 1
+http://companygroup.dyndns.org:19553/ movie/rsVQDyKNwO/Djbi1EMn4P/56745.mp4
+#EXTINF:0,XX inked starlets cena 4
+http://companygroup.dyndns.org:19553/movie/rsVQDyKNwO/Djbi1EMn4P/56746.mp4
+#EXTINF:0,XX layla sins bedtime tales 2 cena 2
+http://companygroup.dyndns.org:19553/movie/rsVQDyKNwO/Djbi1EMn4P/56747.mp4
+#EXTINF:0,XX make teen gape 2 cena 1
+http:// companygroup.dyndns.org:19553/movie/rsVQDyKNwO/Djbi1EMn4P/56748.mp4
+#EXTINF:0,XX make teen gape 2 scene 2
+http://companygroup.dyndns.org:19553/movie/rsVQDyKNwO/Djbi1EMn4P/56749.mp4
+#EXTINF:0,XX faz teen gap 2 cena 4
+http://companygroup.dyndns.org:19553/movie/rsVQDyKNwO/Djbi1EMn4P/56750.mp4
+#EXTINF:0,XX mountain crush cena 1
+http://companygroup.dyndns .org:19553/movie/rsVQDyKNwO/Djbi1EMn4P/56751.mp4
+#EXTINF:0,XX serviço com uma cena de sorriso 4
+http://companygroup.dyndns.org:19553/movie/rsVQDyKNwO/Djbi1EMn4P/56752.mp4
+#EXTINF:0,XX young freaks 6 cena 4.1080p
+http://companygroup.dyndns.org:19553/movie/rsVQDyKNwO/Djbi1EMn4P/56753.mp4
+#EXTINF:0,XX La Mamma Tradita
+http://companygroup.dyndns. org:19553/movie/rsVQDyKNwO/Djbi1EMn4P/53741.mkv
+#EXTINF:0,XX 100% Real Vivid
+http://companygroup.dyndns.org:19553/movie/rsVQDyKNwO/Djbi1EMn4P/49754.mkv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
